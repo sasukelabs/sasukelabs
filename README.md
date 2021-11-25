@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sasukelabs
+- 👀 I’m interested in ui design. i only do pure css and pure javascript cos frameworks scare me
+- 🌱 I’m currently learning how to scrape websites so that i can buy things on sale
+- 💞️ I’m looking to collaborate on creating web services that add value to humanity!!!
+- 📫 How to reach me (✨ pls don't ✨)
